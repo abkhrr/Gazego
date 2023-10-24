@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="home">Home</string>
+    <string name="discover">Discover</string>
+    <string name="wishlist">Wishlist</string>
+
+    <string name="retry">Retry</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="unknown_error">An unknown error has occurred.</string>
+    <string name="offline_mode">Offline Mode</string>
+    <string name="see_all" translatable="false">See All</string>
+
+    <string name="not_rated">0.0</string>
+    <string name="no_overview">No overview.</string>
+    <string name="no_release_date">No release date.</string>
+    <string name="no_runtime">No runtime.</string>
+    <string name="no_genre">No genre.</string>
+    <string name="rating">Rating</string>
+    <string name="back">Back</string>
+    <string name="movie_empty">No Movie Founded</string>
+</resources>

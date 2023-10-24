@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_release_date">No Release Date</string>
+    <string name="overviewTitle">Storyline</string>
+    <string name="emptyOverview">No Storyline Available</string>
+
+    <string name="emptyRuntime">Unknown</string>
+    <string name="details_runtime_text">%1$s %2$s</string>
+    <string name="noReviews">No Reviews Available</string>
+    <string name="reviewTitle">Reviews</string>
+    <string name="seeAllReviews">See All Reviews</string>
+    <string name="noVideos">No Videos Available</string>
+    <string name="video">Trailers</string>
+</resources>

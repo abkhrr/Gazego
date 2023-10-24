@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="DayNight.Theme.Gazego" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/primaryDark</item>
+        <item name="android:navigationBarColor">@color/primaryDark</item>
+    </style>
+
+    <style name="DayNight.Theme.Splash" parent="Theme.SplashScreen">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">false</item>
+        <item name="postSplashScreenTheme">@style/Theme.Gazego</item>
+    </style>
+</resources>
